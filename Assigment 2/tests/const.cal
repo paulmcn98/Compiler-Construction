@@ -1,0 +1,4 @@
+main
+begin
+constant i:integer := 10;
+end

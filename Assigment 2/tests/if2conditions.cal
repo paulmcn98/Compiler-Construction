@@ -1,0 +1,14 @@
+main
+begin
+variable x:integer;
+variable y:integer;
+variable z:integer;
+
+x := 8;
+y := 3;
+
+if 4 < 5 & 6 < 9
+begin
+z := 4 + 6;
+end
+end
